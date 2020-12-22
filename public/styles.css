@@ -83,6 +83,7 @@ body {
   }
   .search {
     -webkit-appearance: none;
+   
     border: none;
     outline: none;
     padding: 10px;
@@ -91,5 +92,10 @@ body {
     margin-bottom: 30px;
     margin: auto 46%;
     text-align: center;
+  }
+  .search:focus{
+    border: 2px solid #2ec2b0;
+    
+  
   }
   

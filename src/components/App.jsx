@@ -15,10 +15,6 @@ function App() {
     setSearchField(e.target.value); 
   
   }
-
-  
-  
-
   useEffect(() => {
     const results = emojipedia.filter(emoji => 
           emoji.name.toLowerCase().includes(searchField.toLowerCase())
@@ -33,7 +29,7 @@ function App() {
       <h1>
         <span>emojipedia</span>
       </h1>
-      <SearchBox placeholder="Search Emojis.."
+      <SearchBox placeholder="search emoji"
         handleChange= {handleChange}
         value={searchField} />
       <dl className="dictionary">
