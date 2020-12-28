@@ -54,6 +54,20 @@ const emojipedia = [
       name: "Smiling Face with Hearts",
       meaning:
         " Expresses a range of happy, affectionate feelings, especially being in love. The number of hearts (three or more) varies by platform."    
+    },
+    {
+      id: 9,
+      emoji: "😋",
+      name: "Face Savoring Food",
+      meaning:
+        " Widely used to convey that a food item is delicious. May also express that a person is attractive."    
+    },
+    {
+      id: 10,
+      emoji: "🤑",
+      name: "Money-Mouth Face",
+      meaning:
+        " Used for a wide range of content dealing with money, including: making money, loving wealth, being or feeling rich, and concepts of success and excellence (e.g., on the money)."    
     }
   ];
   
