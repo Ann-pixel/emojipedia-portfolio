@@ -96,6 +96,48 @@ const emojipedia = [
       name: "Hugging Face",
       meaning:
         "A yellow face smiling with open hands, as if giving a hug. May be used to offer thanks and support, show love and care, or express warm, positive feelings more generally."    
+    },
+    {
+      id: 15,
+      emoji: "🤪",
+      name: "Zany Face",
+      meaning:
+        "Commonly represents such activities as acting goofy, having fun, and partying as well as various senses of slang terms like crazy, usually in a positive manner. May convey a spirit of wackiness more generally."    
+    },
+    {
+      id: 16,
+      emoji: "🥳",
+      name: "Partying Face",
+      meaning:
+        "A yellow face with a party hat blowing a party horn as confetti floats around its head. Used for celebrating joyous occasions and enjoying good times more generally."    
+    },
+    {
+      id: 17,
+      emoji: "😷",
+      name: "Face with Medical Mask",
+      meaning:
+        "A yellow face wearing a white surgical mask, as used by health workers in hospitals as well as the general public during a pandemic. May be worn to avoid sickness or spreading airborne diseases."    
+    },
+    {
+      id: 18,
+      emoji: "👍",
+      name: "Thumbs Up",
+      meaning:
+        "A thumbs-up gesture indicating approval."    
+    },
+    {
+      id: 19,
+      emoji: "👍",
+      name: "Thumbs Down",
+      meaning:
+        "A thumbs-down gesture indicating disapproval."    
+    },
+    {
+      id: 20,
+      emoji: "😲",
+      name: "Astonished Face",
+      meaning:
+        "A yellow face with open eyes, raised eyebrows, and an open mouth, as if gasping in shock or surprise. May convey a wide range of emotions, including awe, amazement, admiration, disbelief, excitement, or concern."    
     }
   ];
   
