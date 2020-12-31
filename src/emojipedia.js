@@ -68,6 +68,34 @@ const emojipedia = [
       name: "Money-Mouth Face",
       meaning:
         " Used for a wide range of content dealing with money, including: making money, loving wealth, being or feeling rich, and concepts of success and excellence (e.g., on the money)."    
+    },
+    {
+      id: 11,
+      emoji: "🙈",
+      name: "See-No-Evil Monkey",
+      meaning:
+        "The Three Wise Monkeys represent the proverb see no evil, hear no evil, speak no evil, frequently interpreted as a call to discretion or figure for willful ignorance. Often used as a playful way to convey a laughing, disbelieving, or cringing I can’t believe what I’m seeing! or I can’t bear to look!"    
+    },
+    {
+      id: 12,
+      emoji: "🙉",
+      name: "Hear-No-Evil Monkey",
+      meaning:
+        "The Three Wise Monkeys represent the proverb see no evil, hear no evil, speak no evil, frequently interpreted as a call to discretion or figure for willful ignorance. Often used as a playful way to convey I can’t believe what I’m hearing! or, more generally, express astonishment or disbelief."    
+    },
+    {
+      id: 13,
+      emoji: "🙊",
+      name: "Speak-No-Evil Monkey",
+      meaning:
+        "The Three Wise Monkeys represent the proverb see no evil, hear no evil, speak no evil, frequently interpreted as a call to discretion or figure for willful ignorance. Often used as a playful way to convey I can’t believe what I just said!, express a mischievous Oops!, or communicate a secret-keeping I won’t say a word. "    
+    },
+    {
+      id: 14,
+      emoji: "🤗",
+      name: "Hugging Face",
+      meaning:
+        "A yellow face smiling with open hands, as if giving a hug. May be used to offer thanks and support, show love and care, or express warm, positive feelings more generally."    
     }
   ];
   
