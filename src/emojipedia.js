@@ -138,6 +138,13 @@ const emojipedia = [
       name: "Astonished Face",
       meaning:
         "A yellow face with open eyes, raised eyebrows, and an open mouth, as if gasping in shock or surprise. May convey a wide range of emotions, including awe, amazement, admiration, disbelief, excitement, or concern."    
+    },
+    {
+      id: 21,
+      emoji: "😒",
+      name: "Unamused Face",
+      meaning:
+        "A yellow face with slightly raised eyebrows, a frown, and eyes looking to the side. May convey a variety of negative emotions, including irritation, displeasure, grumpiness, and skepticism, as if giving the side-eye."    
     }
   ];
   
